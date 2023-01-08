@@ -24,4 +24,4 @@ ___
 ___
 - The pretrained model is also stored in the above mentioned google drive link
 - Make sure the test images and label locations are correct in the "config.py" file
-- Donwload the file and save the downloaded directory in config.py in the variable "checkpoint_dir"
+- Donwload the pretrained model and save the downloaded directory in config.py in the variable "checkpoint_dir"
