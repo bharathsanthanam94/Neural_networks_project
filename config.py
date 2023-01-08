@@ -26,6 +26,7 @@ val_label_path = "/home/bharath/Desktop/NN_project/NN_dependency_trial/Neural_ne
 # location to save trained model
 # choose the directory "trained_model"
 # specify any directory to store saved model
+# To test the model, store the location of pretrained model "classifier_trained.pkl" available in the google drive
 checkpoint_dir = (
     "/home/bharath/Desktop/NN_project/NN_dependency_trial/Neural_networks_project"
 )
