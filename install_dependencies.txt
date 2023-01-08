@@ -1,0 +1,8 @@
+Install the following dependencies
+Pytorch: pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+torchmetrics: pip install torchmetrics
+tabulate: pip install tabulate
+seaborn: pip install seaborn
+pandas: pip install pandas
+tqdm: pip install tqdm
+numpy: pip install numpy
