@@ -18,3 +18,4 @@ ___
 ___
 - The training, validation and test images locations has to be altered based on the downloaded directory in "config.py" file.
 - Model parameters can be adjusted in "config.py" file
+- Run "train.py" to train the model
