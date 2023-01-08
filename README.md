@@ -19,3 +19,8 @@ ___
 - The training, validation and test images locations has to be altered based on the downloaded directory in "config.py" file.
 - Model parameters can be adjusted in "config.py" file
 - Run "train.py" to train the model
+
+### Testing steps
+___
+- The pretrained model is also stored in the above mentioned google drive link
+- Donwload the file and save the downloaded directory in config.py in the variable "checkpoint_dir"
