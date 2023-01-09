@@ -11,7 +11,7 @@ To download the already processed data, follow the google drive link and extract
 The code for generating data is given in "CNN_Descaling_new_feature.ipynb"
 ### Installations and dependencies
 ___
-- Install dependencies mentioned in "dependencies.txt"
+- Install dependencies mentioned in "install_dependencies.txt"
 - Change the file paths given in config.py to the local directory where the above data is extracted.
 
 ### Training steps:
