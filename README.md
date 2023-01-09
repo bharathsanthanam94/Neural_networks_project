@@ -6,7 +6,7 @@ This repository contains CNN based implementation of a model that classifies sca
 ### Download training data
 ___
 
-To download the already processed data, follow the google drive link and extract in your local directory [google drive](https://drive.google.com/drive/folders/1dY1YWo-ZCTR9aCRMs4dcl-bn45RDva_Q?usp=sharing)
+The data is not open sourced, hence it is not direcltly available. Contact for the dataset link.
 
 The code for generating data is given in "CNN_Descaling_new_feature.ipynb"
 ### Installations and dependencies
